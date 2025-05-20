@@ -1,2 +1,2 @@
-Version = "SUB-3.5"
+Version = "SUB3.5"
 Random = "Update"
